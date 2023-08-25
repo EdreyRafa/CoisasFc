@@ -1,0 +1,9 @@
+#include <stdio.h>
+int a=1;
+int main()
+{
+    while(a<=10){
+            printf("Hello World\n ");
+            a++;
+        } 
+}
